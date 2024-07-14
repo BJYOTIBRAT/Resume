@@ -1,0 +1,17 @@
+{
+  "name": "Resume",
+  "version": "1.6.1",
+  "description": "Enhanced with new features and improvements",
+  "updated": "2025-06-01T13:17:48.715Z",
+  "features": [
+    "Data validation",
+    "Error handling",
+    "Performance optimization",
+    "Comprehensive testing"
+  ],
+  "config": {
+    "debug": true,
+    "maxRetries": 1,
+    "timeout": 2440
+  }
+}
